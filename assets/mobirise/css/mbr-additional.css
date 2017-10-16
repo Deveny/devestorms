@@ -1477,16 +1477,15 @@ body {
     padding: 0 0 2rem 0 !important;
   }
 }
-.cid-qycvVSRpVg {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #000000;
+.cid-qycT2IiUJj {
+  background: #ffffff;
 }
-.cid-qycvVSRpVg .video-block {
+.cid-qycT2IiUJj .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
-  .cid-qycvVSRpVg .video-block {
+  .cid-qycT2IiUJj .video-block {
     width: 100% !important;
   }
 }
