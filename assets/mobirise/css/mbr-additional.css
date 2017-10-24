@@ -1249,7 +1249,7 @@ body {
   min-height: 100vh;
 }
 .cid-qxSOG3DWNk {
-  padding-top: 0px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #000000;
   background: linear-gradient(45deg, #000000, #000000);
@@ -1388,8 +1388,8 @@ body {
   }
 }
 .cid-qyZQJkEsls {
-  padding-top: 0px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #000000;
 }
 @media (min-width: 992px) {
@@ -1407,8 +1407,12 @@ body {
     text-align: center;
   }
 }
+.cid-qyZQJkEsls .mbr-text,
+.cid-qyZQJkEsls .mbr-section-btn I {
+  color: #f7ed4a;
+}
 .cid-qyZarhVHjX {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 120px;
   background-color: #000000;
 }
