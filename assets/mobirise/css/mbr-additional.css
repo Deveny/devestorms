@@ -1323,7 +1323,7 @@ body {
 }
 .cid-qxWY2zMp8J {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
 .cid-qxWY2zMp8J .mbr-text,
@@ -1338,6 +1338,9 @@ body {
 }
 .cid-qxWY2zMp8J .mbr-text {
   text-align: center;
+}
+.cid-qxWY2zMp8J .mbr-text P {
+  color: #f7ed4a;
 }
 .cid-qxWVUkHWaO {
   padding-top: 120px;
@@ -1428,6 +1431,7 @@ body {
 }
 .cid-qyZarhVHjX .mbr-text P {
   text-align: center;
+  color: #f7ed4a;
 }
 .cid-qyZf294t8C {
   padding-top: 120px;
