@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "deve falls",
-    "currentPage": "index.html",
+    "currentPage": "episode4.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 84,
     "versionPublish": "4.3.3",
@@ -647,9 +647,9 @@
         }
       ]
     },
-    "episode3.html": {
+    "episode4.html": {
       "settings": {
-        "meta_descr": "EPISODE 3",
+        "meta_descr": "EPISODE 4",
         "title": "NOW WATCHING",
         "order": 1
       },
