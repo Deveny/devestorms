@@ -1803,6 +1803,18 @@ body {
 .cid-qyZd8cJ01i blockquote {
   color: #767676;
 }
+.cid-qCcv5l0z4n {
+  background: #ffffff;
+}
+.cid-qCcv5l0z4n .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qCcv5l0z4n .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qztWwWGnLh {
   padding-top: 120px;
   padding-bottom: 120px;
