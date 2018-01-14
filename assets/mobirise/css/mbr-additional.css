@@ -1248,27 +1248,6 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-qxSOG3DWNk {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #000000;
-  background: linear-gradient(45deg, #000000, #000000);
-}
-@media (min-width: 992px) {
-  .cid-qxSOG3DWNk .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qxSOG3DWNk .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qxSOG3DWNk .mbr-text {
-    text-align: center;
-  }
-}
 .cid-qxSdUuJng9 {
   padding-top: 0px;
   padding-bottom: 90px;
@@ -1300,90 +1279,6 @@ body {
 .cid-qxS4ZQxmzT I {
   color: #f7ed4a;
 }
-.cid-qGbdttikd7 {
-  padding-top: 120px;
-  padding-bottom: 60px;
-  background: #000000;
-}
-.cid-qGbdttikd7 .image-block {
-  margin: auto;
-}
-.cid-qGbdttikd7 figcaption {
-  position: relative;
-}
-.cid-qGbdttikd7 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qGbdttikd7 .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qGbdaiGhaW {
-  padding-top: 90px;
-  padding-bottom: 60px;
-  background: #000000;
-}
-.cid-qGbdaiGhaW .image-block {
-  margin: auto;
-}
-.cid-qGbdaiGhaW figcaption {
-  position: relative;
-}
-.cid-qGbdaiGhaW figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qGbdaiGhaW .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qGbd1mq61n {
-  padding-top: 90px;
-  padding-bottom: 60px;
-  background: #000000;
-}
-.cid-qGbd1mq61n .image-block {
-  margin: auto;
-}
-.cid-qGbd1mq61n figcaption {
-  position: relative;
-}
-.cid-qGbd1mq61n figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qGbd1mq61n .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qGbcVQWmWW {
-  padding-top: 90px;
-  padding-bottom: 60px;
-  background: #000000;
-}
-.cid-qGbcVQWmWW .image-block {
-  margin: auto;
-}
-.cid-qGbcVQWmWW figcaption {
-  position: relative;
-}
-.cid-qGbcVQWmWW figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qGbcVQWmWW .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qE7cHZx9aF {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1406,47 +1301,38 @@ body {
   color: #ff0000;
   text-align: right;
 }
-.cid-qGbcS14ajU {
-  padding-top: 90px;
-  padding-bottom: 60px;
-  background: #000000;
-}
-.cid-qGbcS14ajU .image-block {
-  margin: auto;
-}
-.cid-qGbcS14ajU figcaption {
-  position: relative;
-}
-.cid-qGbcS14ajU figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qGbcS14ajU .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qCsBYFf2l6 {
-  padding-top: 90px;
+.cid-qGJFXWPIqK {
+  padding-top: 120px;
   padding-bottom: 120px;
   background: #000000;
 }
-.cid-qCsBYFf2l6 .image-block {
+.cid-qGJFXWPIqK .image-block {
   margin: auto;
 }
-.cid-qCsBYFf2l6 figcaption {
+.cid-qGJFXWPIqK figcaption {
   position: relative;
 }
-.cid-qCsBYFf2l6 figcaption div {
+.cid-qGJFXWPIqK figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-qCsBYFf2l6 .image-block {
+  .cid-qGJFXWPIqK .image-block {
     width: 100% !important;
   }
+}
+.cid-qGJFXWPIqK DIV {
+  color: #f7ed4a;
+}
+.cid-qGJKeRourw {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #000000;
+}
+.cid-qGJKeRourw .mbr-text,
+.cid-qGJKeRourw blockquote {
+  color: #767676;
 }
 .cid-qE7d2G6MDX {
   padding-top: 120px;
@@ -1793,129 +1679,24 @@ body {
 .cid-qztWwWGnLh LABEL {
   color: #c1c1c1;
 }
-.cid-qGbl6hiM0W {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background: #000000;
+.cid-qGJMbAmAEN {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #000000;
+  background: linear-gradient(45deg, #000000, #000000);
 }
-.cid-qGbl6hiM0W .image-block {
-  margin: auto;
-}
-.cid-qGbl6hiM0W figcaption {
-  position: relative;
-}
-.cid-qGbl6hiM0W figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qGbl6hiM0W .image-block {
-    width: 100% !important;
+@media (min-width: 992px) {
+  .cid-qGJMbAmAEN .mbr-figure {
+    padding-right: 4rem;
   }
 }
-.cid-qGblahuZpK {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background: #000000;
-}
-.cid-qGblahuZpK .image-block {
-  margin: auto;
-}
-.cid-qGblahuZpK figcaption {
-  position: relative;
-}
-.cid-qGblahuZpK figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qGblahuZpK .image-block {
-    width: 100% !important;
+@media (max-width: 991px) {
+  .cid-qGJMbAmAEN .mbr-figure {
+    padding-bottom: 3rem;
   }
 }
-.cid-qGblaZ9H2T {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background: #000000;
-}
-.cid-qGblaZ9H2T .image-block {
-  margin: auto;
-}
-.cid-qGblaZ9H2T figcaption {
-  position: relative;
-}
-.cid-qGblaZ9H2T figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qGblaZ9H2T .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qGblc6qh26 {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background: #000000;
-}
-.cid-qGblc6qh26 .image-block {
-  margin: auto;
-}
-.cid-qGblc6qh26 figcaption {
-  position: relative;
-}
-.cid-qGblc6qh26 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qGblc6qh26 .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qGbld0HsnV {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background: #000000;
-}
-.cid-qGbld0HsnV .image-block {
-  margin: auto;
-}
-.cid-qGbld0HsnV figcaption {
-  position: relative;
-}
-.cid-qGbld0HsnV figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qGbld0HsnV .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qGblehyB00 {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background: #000000;
-}
-.cid-qGblehyB00 .image-block {
-  margin: auto;
-}
-.cid-qGblehyB00 figcaption {
-  position: relative;
-}
-.cid-qGblehyB00 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qGblehyB00 .image-block {
-    width: 100% !important;
+@media (max-width: 767px) {
+  .cid-qGJMbAmAEN .mbr-text {
+    text-align: center;
   }
 }
